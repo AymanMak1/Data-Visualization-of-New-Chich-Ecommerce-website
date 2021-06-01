@@ -1,6 +1,6 @@
 ---
 title: "E-commerce Retail Site New Chic (Shoes)"
-author: "Webstain & Kagami"
+author: "Webstain"
 output: html_notebook
 ---
 
