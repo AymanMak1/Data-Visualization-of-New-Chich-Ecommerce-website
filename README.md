@@ -8,7 +8,7 @@ These diagrams are not only important in helping the team understand where the s
 
 the steps that has been followed on this project are:
 - Access to the 'DATA.WORLD' REST API of the New Chic Website.
-- Recovering the dataset, cleaning, and exploration in RStudio.
+- Recovering the dataset using SQL, cleaning, and exploration in RStudio.
 - Applying some basic descriptive statistics.
 - Probability sampling (in marketing we use stratified sampling).
 - Creating the different plots using ggplot & plotly... packages.
